@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c3e94a0-fc02-45c8-8854-2d6bd4dda7da" name="Changes" comment="Commit 1">
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/IModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/IView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/DAOHelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworldmvc.main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldmvc.main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2XqF4d7MIkKjt4NVW8ysgj7aXEN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,20 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/pro electronic/git/helloworldmvc/Workshop POO 5",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pro electronic/git/helloworldmvc/Workshop POO 5&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Maven.helloworldmaven ">
     <configuration name="All in helloworldmvc.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="helloworldmvc.main" />
@@ -155,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699350043018</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit 1">
+      <option name="closed" value="true" />
+      <created>1699367669097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699367669097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
